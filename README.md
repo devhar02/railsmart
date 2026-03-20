@@ -1,3 +1,7 @@
+## Live Demo
+🌐 [railsmart-2.onrender.com](https://railsmart-2.onrender.com)
+
+![RailSmart App](screenshots/app.png)
 # 🚂 RailSmart — Train Ticket Booking
 
 A multi-agent web app for booking Indian train tickets.
