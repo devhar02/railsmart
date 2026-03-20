@@ -1,7 +1,6 @@
-# 🚂 RailSmart — Train Ticket Booking (No API Key Required)
+# 🚂 RailSmart — Train Ticket Booking
 
 A multi-agent web app for booking Indian train tickets.
-**Zero external AI dependencies** — runs entirely on your machine.
 
 ## Architecture
 
